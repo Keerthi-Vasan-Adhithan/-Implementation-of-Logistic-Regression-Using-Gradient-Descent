@@ -119,6 +119,20 @@ def predict(theta, X):
 
 np.mean(predict(res.x,X)==y)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 ## Output:
